@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=Lite()
+comment2.params=a
+comment2.target=void\ p(int)
+comment3.params=o
+comment3.target=void\ d(java.awt.Component)
+numComments=4
